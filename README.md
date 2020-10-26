@@ -1,36 +1,14 @@
 
 
-![LOGO](https://images.gitee.com/uploads/images/2019/1206/153115_1e497679_759950.png)
-# 小幺鸡文档管理工具，支持富文本、markdown、http、websocket 及其在线测试
-[在线演示地址demo](http://www.xiaoyaoji.cn/project/demo)
-
-[下载最新版本](https://gitee.com/zhoujingjie/apiManager/releases)
-
-## 离线部署版本不提供技术支持与维护了，请使用最新的显示版本 http://www.docway.net
-
-
-
-
 *兼容性* 
 
 * 静态页系统暂时只兼容chrome，其他浏览器未测试。
 * 后端：jdk1.7 tomcat7  mariadb5.5
 
-## [离线部署配置说明](http://www.xiaoyaoji.cn/doc/TxybXPTdx)
-
-
 ## module说明
 * xiaoyaoji-web : 小幺鸡web工程
 * xiaoyaoji-biz : 小幺鸡业务代码模块
 * 其他： 插件目录
-
-
-
-## bug
-如果大家发现了bug，可以在[Issues](https://gitee.com/zhoujingjie/apiManager)里面提交，然后也可以直接修改bug然后提交代码
-提交bug时请尽量多提供一些信息，如截图
-
-
 
 ## 分支说明
 * 默认分支是dev，开发版本的，开发版本的可能会出现编译错误等各种异常情况
@@ -56,8 +34,4 @@
 4. 打包方法。 mvn package；
 
 
-
-
-## 如果觉得还不错，请作者喝杯咖啡吧 ☺
-![二维码](http://f1.xiaoyaoji.cn/donate.webp)
 
